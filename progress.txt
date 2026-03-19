@@ -5,3 +5,4 @@ Learned how Base layer 2 works
 Viewed transactions on Base explorer
 Explored Base network and checked wallet connection
 Connected wallet to Base ecosystem apps
+Tested smart contract deployment
