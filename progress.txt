@@ -1,1 +1,3 @@
 Base learning log
+Day 1: Explored Base network
+Viewed transactions on Base explorer
