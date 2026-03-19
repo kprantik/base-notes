@@ -6,3 +6,4 @@ Viewed transactions on Base explorer
 Explored Base network and checked wallet connection
 Connected wallet to Base ecosystem apps
 Tested smart contract deployment
+Deposit on fluid usdc vault
