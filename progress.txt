@@ -2,3 +2,4 @@ Base learning log
 Day 1: Explored Base network
 Viewed transactions on Base explorer
 Learned how Base layer 2 works
+Viewed transactions on Base explorer
