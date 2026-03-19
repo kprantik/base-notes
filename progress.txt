@@ -7,3 +7,4 @@ Explored Base network and checked wallet connection
 Connected wallet to Base ecosystem apps
 Tested smart contract deployment
 Deposit on fluid usdc vault
+Swap 0.58 ETH for USDbC on KyberSwap
