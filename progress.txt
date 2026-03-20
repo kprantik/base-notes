@@ -9,3 +9,4 @@ Tested smart contract deployment
 Deposit on fluid usdc vault
 Swap 0.58 ETH for USDbC on KyberSwap
 Bridge 0.373870000000000163 Eth from L1 Ethereum to Base L2 Through Orbiter Finance
+Deposit 1001.8 usdc on Zircuit Vaults in Turtle
