@@ -12,3 +12,4 @@ Bridge 0.373870000000000163 Eth from L1 Ethereum to Base L2 Through Orbiter Fina
 Day 3: Deposit 1001.8 usdc on Zircuit Vaults in Turtle
 Mint NFT on Zora 471 Days ago
 Modify Liquidities Position on uniswap v4 Base chain 
+Swap 0.6221 ETH to USDbC via odos
