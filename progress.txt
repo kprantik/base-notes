@@ -18,3 +18,4 @@ Superform v1: Superform Router 1797.7 usdc
 swap $1,646 USDC via LI.FI: LiFi Diamond 575 days ago
 Stand With Crypto: SWC NFT Mint 575 days ago
 Basenames: Registrar Controller kprantik.base.eth
+Deposit 2451 EURC to Morpho: Chain Agnostic Bundler V2)
