@@ -13,4 +13,4 @@ Day 3: Deposit 1001.8 usdc on Zircuit Vaults in Turtle
 Mint NFT on Zora 471 Days ago
 Modify Liquidities Position on uniswap v4 Base chain 
 Swap 0.6221 ETH to USDbC via odos
-Swap 2.7 ETH to USDbC via ofos 756 days ago
+Swap 2.7 ETH to USDbC via odos 758 days ago
