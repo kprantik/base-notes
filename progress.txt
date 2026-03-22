@@ -1,11 +1,11 @@
 Base learning log
-Day 1: Explored Base network
+Explored Base network
 Viewed transactions on Base explorer
 Learned how Base layer 2 works
 Viewed transactions on Base explorer
 Explored Base network and checked wallet connection
 Connected wallet to Base ecosystem apps
-Day 2: Tested smart contract deployment
+Tested smart contract deployment
 Deposit on fluid usdc vault
 Swap 0.58 ETH for USDbC on KyberSwap
 Bridge 0.373870000000000163 Eth from L1 Ethereum to Base L2 Through Orbiter Finance
