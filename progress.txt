@@ -17,3 +17,4 @@ Swap 2.7 ETH to USDbC via odos 758 days ago
 Superform v1: Superform Router 1797.7 usdc
 swap $1,646 USDC via LI.FI: LiFi Diamond 575 days ago
 Stand With Crypto: SWC NFT Mint 575 days ago
+Basenames: Registrar Controller kprantik.base.eth
