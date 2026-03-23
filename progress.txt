@@ -26,3 +26,4 @@ Supply 2,040 USDC on AAVE
 Stake 376.603604786014058191 WELL on Moonwell
 Deposit 1,000.9 USDC to Optimism via Stargate
 Aerodrome: SlipStream Non Fungible Position Manager
+swap 1,035.6 usdt to usdc via LiFi Diamond
