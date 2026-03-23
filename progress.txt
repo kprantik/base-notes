@@ -23,3 +23,4 @@ Deposit 0.1525 ETH $322.4 to Optimism via Across 525 days ago
 Added liquidity to Concero: WETH/USDC Pool(Deprecated 527 days ago
 claim USDC ($2,040.29) on Fluid
 Supply 2,040 USDC on AAVE
+Stake 376.603604786014058191 WELL on Moonwell
