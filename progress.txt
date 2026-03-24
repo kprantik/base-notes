@@ -31,3 +31,4 @@ Mint 1 of Phi Cred-72 on Chain-8453
 Deposit 13,404 CHAMP on Extra Finance
 Gas.Zip: Direct Deposit v2 
 Hana Network: Hanafuda Deposit Contract
+Swap 601.8 USDC for 600USR on Aerodrome
