@@ -32,3 +32,4 @@ Deposit 13,404 CHAMP on Extra Finance
 Gas.Zip: Direct Deposit v2 
 Hana Network: Hanafuda Deposit Contract
 Swap 601.8 USDC for 600USR on Aerodrome
+Relay: Solver
