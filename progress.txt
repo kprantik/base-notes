@@ -37,3 +37,4 @@ Concero: WETH/USDC Pool(Deprecated)
 swap 2,504.312955 USDT to USDC via LiFi Diamond
 Deposit 0.004 ETH ($8.72) to UniChain via Across Protocol
 Added Liquidity Pendle: RouterV4
+swap 1,001.69 ethena usde to usdc via LiFi Diamond
