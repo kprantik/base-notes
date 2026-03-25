@@ -34,3 +34,4 @@ Hana Network: Hanafuda Deposit Contract
 Swap 601.8 USDC for 600USR on Aerodrome
 Relay: Solver
 Concero: WETH/USDC Pool(Deprecated)
+swap 2,504.312955 USDT to USDC via LiFi Diamond
