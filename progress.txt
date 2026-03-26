@@ -42,3 +42,4 @@ swap 3,794.468322 usdt to usdc via LI.FI: LiFi Diamond
 Superform v1: Superform Router 1,205 USDC SuperPositions
 Deposit 609.4 USDC on Moonwell
 Deposit 5,049.8 USDC via Across Protocol: Base Spoke Pool Proxy
+Mint LAYER3 CUBE Token ID [8590201]
