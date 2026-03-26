@@ -46,3 +46,4 @@ Mint LAYER3 CUBE Token ID [8590201]
 Pendle: RouterV4 Deposit 1,499.145847023687891842 ERC-20: Resolv USD (USR)
 Deposit 1,626.527279 USDC to Soneium via Stargate
 Morpho: Chain Agnostic Bundler V2 1,223.913870905404396655 ERC-20: Resolv USD
+Deposit 0.013902 ETH ($28.90) to Optimism Socket: Bungee Bridge via Across
