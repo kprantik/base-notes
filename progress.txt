@@ -40,3 +40,4 @@ Added Liquidity Pendle: RouterV4
 swap 1,001.69 ethena usde to usdc via LiFi Diamond
 swap 3,794.468322 usdt to usdc via LI.FI: LiFi Diamond
 Superform v1: Superform Router 1,205 USDC SuperPositions
+Deposit 609.4 USDC on Moonwell
